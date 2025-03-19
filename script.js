@@ -13,8 +13,8 @@ paroskaSzama += szamok[5] % 2 === 0? 1 : 0;
 
 console.log(paroskaSzama);
 
-
-while(true) {
-    // console.log("vegtelen ciklus...");
-
+var index = 0;
+while(index < 6) {
+     console.log(index);
+    index++;
 }
